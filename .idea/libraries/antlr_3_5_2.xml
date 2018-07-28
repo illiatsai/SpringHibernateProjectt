@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="antlr-3.5.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jars/antlr-3.5.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/aspectjrt-1.9.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/aspectjweaver-1.9.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/byte-buddy-1.8.12.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/classmate-1.3.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/dom4j-1.6.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/easymock-3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/hibernate-commons-annotations-5.0.3.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/hibernate-core-5.3.1.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/javaee-api-8.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/javax.servlet-api-4.0.0-b01.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/javax.servlet-api-4.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/javax.servlet.jsp-api-2.3.2-b02.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jboss-logging-3.3.2.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/jstl-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/junit-4.12.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/maven-compiler-plugin-3.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/mysql-connector-java-8.0.11.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/spring-aop-5.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/spring-beans-5.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/spring-context-5.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/spring-core-5.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/spring-dao-2.0.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/spring-expression-5.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/spring-jdbc-5.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/spring-web-5.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/spring-webmvc-5.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/c3p0-0.9.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/spring-orm-5.0.6.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
